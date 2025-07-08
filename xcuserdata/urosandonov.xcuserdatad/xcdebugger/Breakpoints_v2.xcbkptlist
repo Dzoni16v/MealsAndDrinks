@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DBB1C22A-EA6C-4B3A-817E-281AB67568DE"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D5460B1-9CC3-4DBB-B9CC-8BE349362142"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meals&amp;Drinks/MealViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "textFieldDidChange(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7D5460B1-9CC3-4DBB-B9CC-8BE349362142 - b404e09168af2ae6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meals_Drinks.MealViewController.textFieldDidChange(__C.UITextField) -&gt; ()"
+                  moduleName = "Meals&amp;Drinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/PrviProjekat/Meals&amp;Drinks/Meals&amp;Drinks/MealViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "749">
+               </Location>
+               <Location
+                  uuid = "7D5460B1-9CC3-4DBB-B9CC-8BE349362142 - b404e09168af2ae6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meals_Drinks.MealViewController.textFieldDidChange(__C.UITextField) -&gt; ()"
+                  moduleName = "Meals&amp;Drinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/PrviProjekat/Meals&amp;Drinks/Meals&amp;Drinks/MealViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "716">
+               </Location>
+               <Location
+                  uuid = "7D5460B1-9CC3-4DBB-B9CC-8BE349362142 - b404e09168af232a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meals_Drinks.MealViewController.textFieldDidChange(__C.UITextField) -&gt; ()"
+                  moduleName = "Meals&amp;Drinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/PrviProjekat/Meals&amp;Drinks/Meals&amp;Drinks/MealViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "716">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21F07A72-CD6B-406F-B2BB-B81E162850A5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meals&amp;Drinks/MealViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "getMeals(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "21F07A72-CD6B-406F-B2BB-B81E162850A5 - e0e601fe6afd4efa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in Meals_Drinks.MealViewController.getMeals(Swift.String) -&gt; ()"
+                  moduleName = "Meals&amp;Drinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/PrviProjekat/Meals&amp;Drinks/Meals&amp;Drinks/MealViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "1533">
+               </Location>
+               <Location
+                  uuid = "21F07A72-CD6B-406F-B2BB-B81E162850A5 - e0e601fe6afd4d19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in Meals_Drinks.MealViewController.getMeals(Swift.String) -&gt; ()"
+                  moduleName = "Meals&amp;Drinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/PrviProjekat/Meals&amp;Drinks/Meals&amp;Drinks/MealViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "1362">
+               </Location>
+               <Location
+                  uuid = "21F07A72-CD6B-406F-B2BB-B81E162850A5 - e0e601fe6afd45a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in Meals_Drinks.MealViewController.getMeals(Swift.String) -&gt; ()"
+                  moduleName = "Meals&amp;Drinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/PrviProjekat/Meals&amp;Drinks/Meals&amp;Drinks/MealViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "1362">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "681714ED-8AB5-470D-9D38-58A4F9551FA6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meals&amp;Drinks/MealViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9025ECF-5178-451F-A8AE-F8E48F7465EE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meals&amp;Drinks/MealDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9025ECF-5178-451F-A8AE-F8E48F7465EE - 8df9778dc3cc1c4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meals_Drinks.MealDetailViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Meals&amp;Drinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/PrviProjekat/Meals&amp;Drinks/Meals&amp;Drinks/MealDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "C9025ECF-5178-451F-A8AE-F8E48F7465EE - 8df9778dc3cc1c2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meals_Drinks.MealDetailViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Meals&amp;Drinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/PrviProjekat/Meals&amp;Drinks/Meals&amp;Drinks/MealDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "85">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8317341-285C-472F-9A4F-223E71748A84"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meals&amp;Drinks/DrinksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "getDrinks(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71498D11-6EB0-4A50-9DC4-91420F3FCE83"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meals&amp;Drinks/DrinksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "getDrinks(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "71498D11-6EB0-4A50-9DC4-91420F3FCE83 - b68a4ec900d50cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meals_Drinks.DrinksViewController.getDrinks(Swift.String) -&gt; ()"
+                  moduleName = "Meals&amp;Drinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/PrviProjekat/Meals&amp;Drinks/Meals&amp;Drinks/DrinksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "832">
+               </Location>
+               <Location
+                  uuid = "71498D11-6EB0-4A50-9DC4-91420F3FCE83 - cb397df988b3af95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in Meals_Drinks.DrinksViewController.getDrinks(Swift.String) -&gt; ()"
+                  moduleName = "Meals&amp;Drinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/PrviProjekat/Meals&amp;Drinks/Meals&amp;Drinks/DrinksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "379">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F70097A-8FF8-4B20-81AE-1928C684CE21"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meals&amp;Drinks/DrinksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "getDrinks(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00BD5200-922D-439F-BFFD-3052ACE6550B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meals&amp;Drinks/DrinkDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "loadDataFromDrink()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "00BD5200-922D-439F-BFFD-3052ACE6550B - e8517f413ab65d43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meals_Drinks.DrinkDetailsViewController.loadDataFromDrink() -&gt; ()"
+                  moduleName = "Meals&amp;Drinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/PrviProjekat/Meals&amp;Drinks/Meals&amp;Drinks/DrinkDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "00BD5200-922D-439F-BFFD-3052ACE6550B - e8517f413ab65d43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meals_Drinks.DrinkDetailsViewController.loadDataFromDrink() -&gt; ()"
+                  moduleName = "Meals&amp;Drinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/PrviProjekat/Meals&amp;Drinks/Meals&amp;Drinks/DrinkDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "00BD5200-922D-439F-BFFD-3052ACE6550B - e8517f413ab65d43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meals_Drinks.DrinkDetailsViewController.loadDataFromDrink() -&gt; ()"
+                  moduleName = "Meals&amp;Drinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/PrviProjekat/Meals&amp;Drinks/Meals&amp;Drinks/DrinkDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "310">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7702A930-B01E-407E-B5B2-F350131650A9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meals&amp;Drinks/DrinkDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "loadDataFromDrink()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B0CCB6E-A216-4FA9-86EB-93A9500D90C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meals&amp;Drinks/DrinkDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "fetchRandomDrink()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA44AAD1-3DAD-4D44-8878-F26413D2B651"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meals&amp;Drinks/MealDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "loadDataFromMeal()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7A292D0-54CB-42F2-8410-787EF64371B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meals&amp;Drinks/MealViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "getMeals(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
